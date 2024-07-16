@@ -1,4 +1,4 @@
-# [:] Example Node Project - try 5
+# [:] Example Node Project - try 6
 
 An example node project to demonstrate [srcclr](https://www.sourceclear.com) scans.
 
